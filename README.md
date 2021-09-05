@@ -1,11 +1,9 @@
 # Pytorch-template
 
-├── __pycache__  
 ├── best_model  
 ├── config.json  
 ├── data  
-├── dataloaders  
-│   ├── __pycache__  
+├── dataloaders    
 │   ├── dataset.py  
 ├── logs  
 ├── loss.py  
