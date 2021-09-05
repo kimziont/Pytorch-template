@@ -4,7 +4,7 @@
 ├── config.json # configure everything  
 ├── data  
 ├── dataloaders    
-│   ├── dataset.py 
+│   ├── dataset.py  
 ├── logs  
 ├── loss.py  
 ├── models.py  
